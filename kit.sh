@@ -2,7 +2,7 @@
 git clone https://github.com/kit-o/05konz.blooket.site.git
 
 # Navigate to the repository directory
-cd 05konz.blooket.network
+cd 05konz.blooket.network.github.io
 
 # Add your website files (index.html, styles.css, etc.)
 echo "<!DOCTYPE html><html><head><title>My Website</title></head><body><h1>Hello, world!</h1></body></html>" > index.html
